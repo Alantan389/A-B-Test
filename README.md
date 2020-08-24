@@ -1,4 +1,4 @@
-# A-B-Test
+# A/B Test
 Analyze A/B Test
 
 ## For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to  try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
@@ -9,6 +9,7 @@ Analyze A/B Test
 
 
 ## Introduction
+
 ### A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these For this project, you will be working to understand the results of an A/B test run by an e-commerce website. Your goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ## Part II - A/B Test
@@ -22,5 +23,5 @@ Analyze A/B Test
 
 
 
-### Part III - A regression approach
-####  In this final part, you will see that the result you achieved in the A/B test in Part II above can also be achieved by performing regression.
+## Part III - A regression approach
+###  In this final part, you will see that the result you achieved in the A/B test in Part II above can also be achieved by performing regression.
